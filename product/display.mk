@@ -17,7 +17,7 @@ PRODUCT_AAPT_PREBUILT_DPI := hdpi
 
 # Display calibration
 PRODUCT_PACKAGES += \
-    libjni_livedisplay
+    vendor.lineage.livedisplay@1.0-service-sdm
 
 # Display HAL
 PRODUCT_PACKAGES += \
