@@ -2,6 +2,11 @@
 PRODUCT_PACKAGES += \
     Snap
 
+# Camera
+PRODUCT_PACKAGES += \
+    camera.msm8937 \
+    libmm-qcamera
+
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
     camera.display.umax=1920x1080 \
