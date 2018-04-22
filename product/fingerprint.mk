@@ -1,6 +1,6 @@
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.0-service-custom
+    fingerprintd
 
 # Permissions
 PRODUCT_COPY_FILES += \
