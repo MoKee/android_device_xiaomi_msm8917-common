@@ -304,7 +304,10 @@ etc/firmware/a540_gpmu.fw2
 vendor/lib/hw/keystore.msm8937.so
 vendor/lib64/hw/keystore.msm8937.so
 <<<<<<< HEAD:proprietary-files-qc.txt
+<<<<<<< HEAD:proprietary-files-qc.txt
 =======
+=======
+>>>>>>> 8bb39f0... msm8937-common: Kang script to update sha1sums of some blobs:proprietary-files.txt
 
 # Lights - from santoni (Redmi 4X)
 vendor/lib/hw/lights.msm8937.so
