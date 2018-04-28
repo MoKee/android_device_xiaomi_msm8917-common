@@ -13,7 +13,7 @@ PRODUCT_AAPT_PREBUILT_DPI := hdpi
 
 # Ambient display
 #PRODUCT_PACKAGES += \
-#    CMDoze
+#    MKDoze
 
 # Display calibration
 PRODUCT_PACKAGES += \
