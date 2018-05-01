@@ -114,7 +114,7 @@ on boot
 
     # Notification LEDs
     chown root system /sys/class/leds/*/blink
-    chown root system /sys/class/leds/*/brightness    
+    chown root system /sys/class/leds/*/brightness
 
     # Wifi firmware reload path
     chown wifi wifi /sys/module/wlan/parameters/fwpath
