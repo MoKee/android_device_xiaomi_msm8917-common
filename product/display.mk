@@ -13,11 +13,7 @@ PRODUCT_AAPT_PREBUILT_DPI := hdpi
 
 # Ambient display
 PRODUCT_PACKAGES += \
-<<<<<<< HEAD
-    MKDoze
-=======
     XiaomiDoze
->>>>>>> af7f803... msm8917-common: Switch to XiaomiDoze
 
 # Display
 PRODUCT_PACKAGES += \
